@@ -4,6 +4,7 @@ OBJECTIVE: The objective of the project is to create a 3 teir website using ( co
 
 ABOUT WEBSITE - website name is HomeGuest_1.com which are created for users who want to give their home on rent . so this website will suggest them the perfect trusted peoples based on their choice . they can filter peoples on the basis of caste,city and amount budget.
 (As in india people give their first preference to the people of their caste!).
+![2 - Copy](https://user-images.githubusercontent.com/64528624/80615113-ead9fb80-8a5c-11ea-8abd-0edeba119577.png)
 
 1 (HTML) - Their are 5 html pages first one is index.html which is the begining of website where introduction of website is given through this page there are 4 html pages connected.This page consist of 2 images also. html forms and hyperlink are used on this page.
 Second html page is insert.html where the person who want to give home on rent they will enter their information.
