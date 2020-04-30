@@ -37,3 +37,6 @@ Fifth html page is amount.html where users can enter the amount budget they want
 
 6. Collection-Framework - Here comes the logic part array-list is used here because there are multiple objects of the prefered choice so array list is used here for the collection of objects.
 ![11](https://user-images.githubusercontent.com/64528624/80616526-a51e3280-8a5e-11ea-965f-079c7c9f0bcc.png)
+![Activity](https://user-images.githubusercontent.com/64528624/80731755-f3980380-8b28-11ea-9b0c-dcad9d7db850.png)
+![class](https://user-images.githubusercontent.com/64528624/80731818-07436a00-8b29-11ea-8e37-c86f8cb388ed.png)
+![dataflow](https://user-images.githubusercontent.com/64528624/80731835-090d2d80-8b29-11ea-9c0a-6f906ca47b36.png)
